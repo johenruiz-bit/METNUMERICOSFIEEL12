@@ -1,1 +1,5 @@
-
+Parte 2
+Interprete el signo de cada derivada en terminos fisicos.
+En t = 4.0 ms (V' = -0.4009 V/ms): El signo negativo indica que el voltaje está disminuyendo. Físicamente, esto significa que el tejido se está deformando en una dirección particular (por ejemplo, contrayéndose o comprimiéndose debido a la actividad muscular o el pulso sanguíneo).
+En t = 8.0 ms (V' = -0.2956 V/ms): El signo sigue siendo negativo, por lo que la deformación en esa misma dirección continúa. Sin embargo, la magnitud absoluta es menor (-0.2956 frente a -0.4009). Esto indica que el movimiento de deformación se está "desacelerando" o acercándose a su punto de máxima deformación.
+En t = 12.0 ms (V' = 0.3797 V/ms): El signo cambia a positivo, lo que indica que el voltaje está aumentando. Físicamente, esto representa que el tejido ha comenzado a moverse en la dirección opuesta, se está relajando expandiendo o volviendo a su estado de reposo tras la deformación inicial.
