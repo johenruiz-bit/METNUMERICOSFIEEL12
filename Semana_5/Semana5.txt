@@ -1,0 +1,12 @@
+a)METODO DE BISECCION (INTERVALOS -2.1 , -2.05 )
+Número de iteraciones: 16
+Raíz obtenida: -2.07393265
+b)METODO NEWTON RAPHSON (𝑥_0 = 0.5)
+Número de iteraciones: 9
+Raíz obtenida: 4.91718593
+c)METODO DE LA SECANTE (𝑥_0 = 0.5 , 𝑥_1 = 0.7)
+Número de iteraciones: 25
+Raíz obtenida: -2.07393281
+
+¿Qué método converge más rápido? ¿por qué?
+El metodo de newton raphson, esto se debe a que el numero de decimales se duplica en cada paso, haciendo mas rapido el resultado
