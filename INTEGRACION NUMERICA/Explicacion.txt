@@ -1,1 +1,1 @@
-
+Simpson 1/3 compensó mejor el área que el trapecio, Por otro lado la estrategia de gauss-legendre introdujo una desventaja, el spline preservó las perturbaciones del ruido y el algoritmo desperdició la alta resolución de los 13 datos recolectados al evaluar únicamente en 3 puntos, resultando en un error del 0.47%, el doble del arrojado por Simpson 1/3.
